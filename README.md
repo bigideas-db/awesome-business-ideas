@@ -16,7 +16,7 @@
 
 [![Sponsored by BigIdeasDB](https://img.shields.io/badge/Sponsored%20by-BigIdeasDB-f97316)](https://bigideasdb.com/?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list)
 ![Data snapshot](https://img.shields.io/badge/data-October%202026-0ea5e9)
-![Business ideas](https://img.shields.io/badge/business%20ideas-207-22c55e)
+![Business ideas](https://img.shields.io/badge/business%20ideas-232-22c55e)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 > A curated, data-ranked list of **business ideas**: small businesses to start or buy, SaaS and software ideas, online businesses, AI agent ideas and service business ideas. Every idea is ranked by real data, not opinion, from [BigIdeasDB](https://bigideasdb.com/?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list).
@@ -50,6 +50,14 @@ This list shows the ranking and one headline number per idea. The full scorecard
     - [Manufacturing & Industrial](#manufacturing--industrial)
     - [Automotive & Transport](#automotive--transport)
     - [Technology & Media](#technology--media)
+- [Business ideas by budget](#business-ideas-by-budget)
+    - [Under $250K](#under-250k)
+    - [$250K to $500K](#250k-to-500k)
+    - [$500K to $1M](#500k-to-1m)
+    - [$1M and up](#1m-and-up)
+- [Home-based businesses to buy](#home-based-businesses-to-buy)
+- [Businesses you can buy with seller financing](#businesses-you-can-buy-with-seller-financing)
+- [Best businesses to buy by state](#best-businesses-to-buy-by-state)
 - [Online businesses to buy](#online-businesses-to-buy)
 - [SaaS and software business ideas](#saas-and-software-business-ideas)
     - [Markets full of operators, empty of software](#markets-full-of-operators-empty-of-software)
@@ -57,6 +65,7 @@ This list shows the ranking and one headline number per idea. The full scorecard
     - [Online business categories where founders actually earn](#online-business-categories-where-founders-actually-earn)
 - [AI agent business ideas](#ai-agent-business-ideas)
 - [Software ideas from real customer complaints](#software-ideas-from-real-customer-complaints)
+    - [More software ideas by category](#more-software-ideas-by-category)
     - [Ideas people voted for](#ideas-people-voted-for)
 - [Service business ideas](#service-business-ideas)
 - [Where startup investors are looking](#where-startup-investors-are-looking)
@@ -268,6 +277,145 @@ The 25 highest-ranked small businesses out of 118 US industries, by the BigIdeas
 
 **[⬆ back to top](#contents)**
 
+## Business ideas by budget
+
+Grouped by the median asking price for an established business in each industry, so you can see what your budget buys. Inside each band ideas are ranked by Buyer Fit, best first (top 8 shown).
+
+### Under $250K
+
+24 industries in this band.
+
+* [Swimming Pool Services](https://bigideasdb.com/buying-a-pool-route?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #4 of 118. Median owner earnings **$102K** a year.
+* [Food & Beverage Wholesale](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #5 of 118. Median owner earnings **$96K** a year.
+* [Food Trucks & Vending](https://bigideasdb.com/buying-a-vending-machine-business?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #7 of 118. Median owner earnings **$90K** a year.
+* [Hair Salons & Barbers](https://bigideasdb.com/buying-a-salon?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #8 of 118. Median owner earnings **$80K** a year.
+* [Nail Salons](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #10 of 118. Median owner earnings **$115K** a year.
+* [Toy & Hobby Shops](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #11 of 118. Median owner earnings **$48K** a year.
+* [Other Personal Services](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #12 of 118. Median owner earnings **$119K** a year.
+* [Florists](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #15 of 118. Median owner earnings **$93K** a year.
+
+### $250K to $500K
+
+52 industries in this band.
+
+* [Chiropractic Clinics](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #1 of 118. Median owner earnings **$200K** a year.
+* [Convenience Stores](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #3 of 118. Median owner earnings **$124K** a year.
+* [Finance & Lending](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #9 of 118. Median owner earnings **$169K** a year.
+* [Antiques & Art Retail](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #13 of 118. Median owner earnings **$81K** a year.
+* [Optical Practices](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #14 of 118. Median owner earnings **$164K** a year.
+* [Specialty Food Retail](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #16 of 118. Median owner earnings **$144K** a year.
+* [Commercial & Industrial Cleaning](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #17 of 118. Median owner earnings **$160K** a year.
+* [Catering](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #18 of 118. Median owner earnings **$148K** a year.
+
+### $500K to $1M
+
+30 industries in this band.
+
+* [Dental Practices](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #2 of 118. Median owner earnings **$413K** a year.
+* [Accountancy & Bookkeeping](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #6 of 118. Median owner earnings **$221K** a year.
+* [Legal Services](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #23 of 118. Median owner earnings **$351K** a year.
+* [Surveying & Architecture](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #24 of 118. Median owner earnings **$238K** a year.
+* [Insurance Agencies](https://bigideasdb.com/buying-an-insurance-agency?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #34 of 118. Median owner earnings **$222K** a year.
+* [Engineering Services](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #36 of 118. Median owner earnings **$250K** a year.
+* [Medical Practices](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #37 of 118. Median owner earnings **$350K** a year.
+* [Oil & Gas](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #41 of 118. Median owner earnings **$385K** a year.
+
+### $1M and up
+
+12 industries in this band.
+
+* [Metal Fabrication & Machining](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #74 of 118. Median owner earnings **$326K** a year.
+* [Car Washes](https://bigideasdb.com/buying-a-car-wash?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #86 of 118. Median owner earnings **$228K** a year.
+* [Hotels](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #91 of 118. Median owner earnings **$288K** a year.
+* [Courier & Delivery](https://bigideasdb.com/buying-a-fedex-route?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #94 of 118. Median owner earnings **$420K** a year.
+* [Veterinary Clinics](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #99 of 118. Median owner earnings **$310K** a year.
+* [Civil Engineering](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #106 of 118. Median owner earnings **$811K** a year.
+* [Wood Products Manufacturing](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #107 of 118. Median owner earnings **$289K** a year.
+* [IT Services](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list) - #108 of 118. Median owner earnings **$371K** a year.
+
+> 🔒 Exact median asking prices, multiples and live listings inside every budget band. [Unlock it in BigIdeasDB →](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list)
+
+**[⬆ back to top](#contents)**
+
+## Home-based businesses to buy
+
+Industries where the most listings for sale are run from home: no storefront, no lease. The number shown is the share of listings marked home-based, then the median owner earnings of those home-based listings.
+
+* **Swimming Pool Services** - 68% home-based · median earnings **$81K** a year.
+* **Websites & Digital Assets** - 67% home-based · median earnings **$110K** a year.
+* **Courier & Delivery** - 63% home-based · median earnings **$439K** a year.
+* **Property Management** - 53% home-based · median earnings **$137K** a year.
+* **Toy & Hobby Shops** - 53% home-based · median earnings **$45K** a year.
+* **E-commerce & Online Retail** - 52% home-based · median earnings **$109K** a year.
+* **Other Personal Services** - 44% home-based · median earnings **$112K** a year.
+* **Food Trucks & Vending** - 43% home-based · median earnings **$120K** a year.
+* **Marketing & Advertising** - 42% home-based · median earnings **$161K** a year.
+* **Commercial & Industrial Cleaning** - 40% home-based · median earnings **$144K** a year.
+* **Publishing & Media** - 40% home-based · median earnings **$115K** a year.
+* **Painting & Decorating** - 39% home-based · median earnings **$240K** a year.
+* **Building & Property Maintenance** - 38% home-based · median earnings **$199K** a year.
+* **Domestic Cleaning** - 37% home-based · median earnings **$76K** a year.
+* **Finance & Lending** - 36% home-based · median earnings **$151K** a year.
+* **Pest Control** - 36% home-based · median earnings **$175K** a year.
+* **Software & SaaS** - 35% home-based · median earnings **$211K** a year.
+* **Management Consulting** - 31% home-based · median earnings **$314K** a year.
+* **Roofing** - 31% home-based · median earnings **$237K** a year.
+* **Pet Retail** - 30% home-based · median earnings **$85K** a year.
+
+> 🔒 Every home-based listing with its price, earnings and location. [Unlock it in BigIdeasDB →](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list)
+
+**[⬆ back to top](#contents)**
+
+## Businesses you can buy with seller financing
+
+When the seller finances part of the price, you need less cash up front. These industries have the highest share of US listings that offer seller financing.
+
+* **Software & SaaS** - 35% of listings offer seller financing.
+* **Food & Beverage Wholesale** - 34% of listings offer seller financing.
+* **Insurance Agencies** - 33% of listings offer seller financing.
+* **Engineering Services** - 30% of listings offer seller financing.
+* **Equipment Rental** - 30% of listings offer seller financing.
+* **Events & Venues** - 29% of listings offer seller financing.
+* **Sports & Recreation** - 29% of listings offer seller financing.
+* **Printing & Signage** - 28% of listings offer seller financing.
+* **Food & Beverage Manufacturing** - 28% of listings offer seller financing.
+* **Amusements & Attractions** - 28% of listings offer seller financing.
+* **Catering** - 28% of listings offer seller financing.
+* **Marketing & Advertising** - 27% of listings offer seller financing.
+* **Moving & Storage** - 27% of listings offer seller financing.
+* **Gyms & Fitness Studios** - 26% of listings offer seller financing.
+* **Environmental & Waste Services** - 26% of listings offer seller financing.
+
+> 🔒 Seller financing terms, SBA eligibility and down payments by listing. [Unlock it in BigIdeasDB →](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list)
+
+**[⬆ back to top](#contents)**
+
+## Best businesses to buy by state
+
+The 15 US states with the most businesses for sale, and the three industries with the highest median owner earnings in each (industries with 15+ listings in that state).
+
+| State | Listings | Highest-earning businesses for sale |
+|---|---|---|
+| Florida | 6,300+ | Construction Supply ($600K); Electrical Contracting ($401K); Software & SaaS ($399K) |
+| California | 5,200+ | General Contracting ($535K); Courier & Delivery ($459K); Medical Practices ($430K) |
+| Texas | 4,300+ | Software & SaaS ($573K); General Contracting ($450K); Metal Fabrication & Machining ($443K) |
+| New York | 3,200+ | Dental Practices ($630K); Courier & Delivery ($523K); Car Washes ($500K) |
+| New Jersey | 1,700+ | Dental Practices ($561K); Auto Repair ($250K); Printing & Signage ($194K) |
+| Arizona | 1,600+ | Courier & Delivery ($377K); General Contracting ($305K); HVAC ($235K) |
+| Georgia | 1,500+ | Courier & Delivery ($353K); Care Homes & Home Care ($253K); Fuel Stations ($240K) |
+| Pennsylvania | 1,400+ | General Contracting ($293K); Building & Property Maintenance ($231K); Auto Repair ($180K) |
+| North Carolina | 1,300+ | Courier & Delivery ($406K); General Manufacturing ($245K); Bars & Pubs ($238K) |
+| Illinois | 1,300+ | Accountancy & Bookkeeping ($240K); General Contracting ($230K); Liquor Stores ($150K) |
+| Ohio | 1,300+ | Courier & Delivery ($373K); Metal Fabrication & Machining ($311K); General Contracting ($233K) |
+| Michigan | 1,200+ | Courier & Delivery ($325K); HVAC ($279K); Auto Repair ($262K) |
+| Colorado | 1,200+ | General Contracting ($319K); Plumbing ($257K); HVAC ($223K) |
+| Massachusetts | 1,000+ | Courier & Delivery ($445K); General Contracting ($371K); HVAC ($342K) |
+| Washington | 1,000+ | Courier & Delivery ($467K); Restaurants ($180K); Auto Repair ($157K) |
+
+> 🔒 State-level benchmarks and live listings for every state and industry. [Unlock it in BigIdeasDB →](https://bigideasdb.com/main-street-index-feature?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list)
+
+**[⬆ back to top](#contents)**
+
 ## Online businesses to buy
 
 From 820+ live listings of SaaS, apps, agencies and online stores for sale. The number shown is the median price as a multiple of yearly profit: lower means you pay back the price faster.
@@ -386,6 +534,36 @@ Product ideas drawn from the [BigIdeasDB complaint index](https://bigideasdb.com
 * **Advanced reporting and analytics dashboard for courier performance** (Courier) - same complaint across 75 companies.
 * **Enhanced customer support ticketing system** (Shipping) - same complaint across 50 companies.
 
+### More software ideas by category
+
+The next 25 complaint-backed ideas, one per software category.
+
+* **Streamlined mobile functionality for on-the-go users** (CRM) - same complaint across 40 companies.
+* **Automated reporting tool with enhanced customization** (Business Management) - same complaint across 30 companies.
+* **Automated spam management system** (Email Management) - same complaint across 30 companies.
+* **Automated real-time employee time tracking** (Employee Monitoring) - same complaint across 20 companies.
+* **Advanced analytics dashboard for comprehensive financial oversight** (Hospitality Property Management) - same complaint across 15 companies.
+* **Mobile application for on-the-go job management** (Moving) - same complaint across 10 companies.
+* **Centralized dashboard for video access and management** (eLearning Authoring Tools) - same complaint across 5 companies.
+* **Smart update management for imaging software** (Disk Imaging) - same complaint across 40 companies.
+* **Seamless customization for idea submission forms** (Idea Management) - same complaint across 38 companies.
+* **Customized reporting solutions for audit teams** (Audit) - same complaint across 35 companies.
+* **Enhanced payment processing integration** (Appointment Reminder) - same complaint across 30 companies.
+* **Advanced reporting and analytics module** (IoT Analytics) - same complaint across 23 companies.
+* **Cost-effective licensing solutions for smes** (Business Intelligence) - same complaint across 20 companies.
+* **Automated reporting dashboards with customizable templates** (Customer Reference Management) - same complaint across 10 companies.
+* **Transparent influencer pricing model** (Influencer Marketing) - same complaint across 9 companies.
+* **Custom document formatting options with advanced logic** (Document Generation) - same complaint across 8 companies.
+* **Streamlined custom project configuration tool** (Home Builder) - same complaint across 8 companies.
+* **Enhanced notification resilience** (Live Chat) - same complaint across 8 companies.
+* **Enhanced job board integration** (Onboarding) - same complaint across 7 companies.
+* **Streamlined payment processing and reconciliation system** (Apartment Management Systems) - same complaint across 5 companies.
+* **Enhanced e-signature functionality for streamlined transactions** (Brokerage Management) - same complaint across 50 companies.
+* **Streamlined migration processes with automated validation** (Data Management) - same complaint across 40 companies.
+* **Mobile optimization for enhanced usability** (Handyman) - same complaint across 15 companies.
+* **Scalable pricing models tailored for startups and smes** (Load Testing) - same complaint across 15 companies.
+* **Robust sync options for third-party calendar integration** (Legal Calendar) - same complaint across 12 companies.
+
 ### Ideas people voted for
 
 BigIdeasDB users swipe yes or no on complaint-backed ideas. These earned the highest yes rates (each shown to 50+ people).
@@ -454,6 +632,7 @@ Average momentum score (1 to 10) across 17,000+ funded startups, by category.
 | Complaint ideas | 1M+ complaints | Opportunity score | Model-assisted scoring. Read the reviews before you build. |
 | Voted ideas | BigIdeasDB swipe data | Yes rate | Small samples per idea. |
 | Service ideas | Freelance job posts | Recurring problem | A sample of jobs per skill, not total demand. |
+| Budget, home-based, seller financing, states | Main Street Index, 46,000+ US listings | Asking price band, home-based share, seller-financing share, median earnings | Seller-stated fields; not every listing states them. |
 | Investor interest | 17,000+ funded startups | Momentum score | Model-assisted. No funding amounts. |
 
 Rankings are generated from a monthly BigIdeasDB data snapshot (October 2026).
@@ -479,6 +658,18 @@ Buying gets you customers and cash flow on day one. Starting costs less but take
 ### What are good SaaS ideas with low competition?
 
 Look where many businesses pay for services but few software products exist. In the Stripe Index that is Marketing Agencies, Nonprofit & Fundraising, Software Development Agencies. AI tools are the opposite: about a third of that market is already micro-SaaS.
+
+### What is a good business to buy on a small budget?
+
+Among industries priced under $250K, **Swimming Pool Services** ranks highest on Buyer Fit, with median owner earnings of $102K a year. Seller financing lowers the cash you need: Software & SaaS and Food & Beverage Wholesale listings offer it most often.
+
+### What business can I run from home?
+
+Among businesses for sale, Swimming Pool Services, Courier & Delivery and Property Management are most often run from home. See [home-based businesses to buy](#home-based-businesses-to-buy) for the full list.
+
+### What is the best business to buy in Florida, Texas or California?
+
+By median owner earnings among industries with 15+ listings: Florida, Construction Supply ($600K); Texas, Software & SaaS ($573K); California, General Contracting ($535K).
 
 ### What AI business ideas are still open?
 
