@@ -72,6 +72,7 @@ This list shows the ranking and one headline number per idea. The full scorecard
 - [How the ranking works](#how-the-ranking-works)
 - [FAQ](#faq)
 - [Tools for finding and validating business ideas](#tools-for-finding-and-validating-business-ideas)
+- [Related lists](#related-lists)
 - [Cite this list](#cite-this-list)
 - [Contributing](#contributing)
 - [License](#license)
@@ -695,6 +696,15 @@ Agent tools for industries AI can't reach yet. In 18 of 54 industries we checked
 * [I want to start a business but have no ideas](https://bigideasdb.com/i-want-to-start-a-business-but-have-no-ideas?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list)
 * [Why owners sell their businesses](https://bigideasdb.com/why-owners-sell-their-businesses?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list)
 * [Buy vs start a business](https://bigideasdb.com/buy-vs-start-a-business?utm_source=github&utm_medium=awesome-business-ideas&utm_campaign=awesome-list)
+
+## Related lists
+
+More data-ranked lists maintained by BigIdeasDB:
+
+* [Awesome SaaS Ideas](https://github.com/bigideas-db/awesome-saas-ideas) - SaaS, micro SaaS, B2B and AI SaaS ideas ranked by paying businesses, software density and complaints.
+* [Awesome App Ideas](https://github.com/bigideas-db/awesome-app-ideas) - App ideas for iPhone and Android, ranked by where the top apps are rated worst.
+* [Awesome Buy A Business](https://github.com/bigideas-db/awesome-buy-a-business) - How to buy a business, what businesses sell for and how to finance it.
+* [Awesome SaaS Valuation](https://github.com/bigideas-db/awesome-saas-valuation) - SaaS valuation multiples by category, size and margin, plus MRR benchmarks.
 
 ## Cite this list
 
