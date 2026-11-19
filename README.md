@@ -703,7 +703,7 @@ More data-ranked lists maintained by BigIdeasDB:
 
 * [Awesome SaaS Ideas](https://github.com/bigideas-db/awesome-saas-ideas) - SaaS, micro SaaS, B2B and AI SaaS ideas ranked by paying businesses, software density and complaints.
 * [Awesome App Ideas](https://github.com/bigideas-db/awesome-app-ideas) - App ideas for iPhone and Android, ranked by where the top apps are rated worst.
-* [Awesome Buy A Business](https://github.com/bigideas-db/awesome-buy-a-business) - How to buy a business, what businesses sell for and how to finance it.
+* [Awesome Buy a Business](https://github.com/bigideas-db/awesome-buy-a-business) - How to buy a business, what businesses sell for and how to finance it.
 * [Awesome SaaS Valuation](https://github.com/bigideas-db/awesome-saas-valuation) - SaaS valuation multiples by category, size and margin, plus MRR benchmarks.
 
 ## Cite this list
